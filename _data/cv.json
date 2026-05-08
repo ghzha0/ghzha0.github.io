@@ -1,152 +1,141 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "赵官豪 (Guanhao Zhao)",
+    "email": "ghzhao0223@mail.ustc.edu.cn",
+    "phone": "13155161682",
+    "website": "https://ghzhao.github.io",
+    "summary": "中国科学技术大学博士生，研究兴趣包括强化学习、模仿学习、扩散模型、智能体能力建模与评估、多智能体协作 / Ph.D. student at USTC, focusing on reinforcement learning, imitation learning, diffusion models, agent capability modeling and evaluation, and multi-agent collaboration.",
     "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
-    },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
-    ]
+      "city": "合肥 (Hefei)",
+      "countryCode": "CN"
+    }
   },
-  "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "中国科学技术大学 (USTC)",
+      "area": "Ph.D. in Data Science",
+      "startDate": "2024",
+      "endDate": "",
+      "courses": ["导师: 陈恩红、黄振亚"]
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "institution": "中国科学技术大学 (USTC)",
+      "area": "M.Eng. in Computer Science and Technology",
+      "startDate": "2021",
+      "endDate": "2024",
+      "courses": ["导师: 陈恩红、黄振亚"]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "institution": "西北工业大学 (NPU)",
+      "area": "B.Eng. in Software Engineering",
+      "startDate": "2017",
+      "endDate": "2021",
+      "courses": ["排名: 6/254", "CET-6: 610"]
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "Simulating Student Interactions with Two-stage Imitation Learning for Intelligent Educational Systems",
+      "publisher": "CIKM 2023 (CCF-B)",
+      "releaseDate": "2023-10-01",
+      "summary": "一作"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Multi-Perspective Consolidation Enhanced Cognitive Diagnosis via Conditional Diffusion Model",
+      "publisher": "AAAI 2025 (CCF-A)",
+      "releaseDate": "2025-02-01",
+      "summary": "一作"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "A Diffusion-Based Cognitive Diagnosis Framework for Robust Learner Assessment",
+      "publisher": "IEEE TLT (JCR-Q1)",
+      "releaseDate": "2025-01-01",
+      "summary": "一作"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Navigating the Energy Landscape of Collaboration: Multi-Agent Communication Graph Generation via Score-Based Diffusion",
+      "publisher": "ICML 2026",
+      "releaseDate": "2026-06-01",
+      "summary": "一作 (已接收)"
+    },
+    {
+      "name": "A Bounded Ability Estimation for Computerized Adaptive Testing",
+      "publisher": "NeurIPS 2023 (CCF-A)",
+      "releaseDate": "2023-12-01",
+      "summary": "学生二作"
+    },
+    {
+      "name": "IRT-Router: Effective and Interpretable Multi-LLM Routing via Item Response Theory",
+      "publisher": "ACL 2025",
+      "releaseDate": "2025-07-01",
+      "summary": ""
+    },
+    {
+      "name": "Towards Explainable Computerized Adaptive Testing with Large Language Model",
+      "publisher": "EMNLP 2024",
+      "releaseDate": "2024-11-01",
+      "summary": "学生二作"
     }
   ],
-  "presentations": [
+  "work": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
+      "company": "网易伏羲 AI Lab — 群体智能组",
+      "position": "算法实习",
+      "startDate": "2024-10",
+      "endDate": "2025-05",
+      "summary": "专注对话智能体算法研发与优化，设计评测方法和调度策略，提升25%。"
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "company": "蚂蚁百灵大模型 — 语料优化组",
+      "position": "算法实习",
+      "startDate": "2026-04",
+      "endDate": "",
+      "summary": "专注于 Coding Agent 前端代码生成能力的提升与优化。"
     }
   ],
-  "teaching": [
+  "awards": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "title": "NeurIPS CausalML Challenge 任务二第3名/团体第2名",
+      "date": "2022"
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "title": "中国科学技术大学一等学业奖学金",
+      "date": "2021, 2022, 2023, 2025"
+    },
+    {
+      "title": "西北工业大学优秀毕业生",
+      "date": "2021"
+    },
+    {
+      "title": "十四届全国大学生智能汽车竞赛 国家级、省部级一等奖",
+      "date": "2019"
     }
   ],
-  "portfolio": [
+  "languages": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "language": "中文 (Chinese)",
+      "fluency": "母语 (Native)"
+    },
+    {
+      "language": "English",
+      "fluency": "CET-6: 610"
+    }
+  ],
+  "interests": [
+    {
+      "name": "强化学习 / Reinforcement Learning"
+    },
+    {
+      "name": "模仿学习 / Imitation Learning"
+    },
+    {
+      "name": "扩散模型 / Diffusion Models"
+    },
+    {
+      "name": "智能体能力建模与评估 / Agent Capability Modeling & Evaluation"
+    },
+    {
+      "name": "多智能体协作 / Multi-Agent Collaboration"
     }
   ]
 }
